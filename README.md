@@ -31,7 +31,7 @@ Note that these repositories may not have had commits for a few weeks or months 
 - [Relm](https://github.com/antoyo/relm)
 
 # 📫 How to reach me: ...
-Conntact me using the email adress visible on [Github](https://github.com/Schmiddiii)
+Contact me using the email adress visible on [Github](https://github.com/Schmiddiii)
 
 # :chart_with_upwards_trend: Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=schmiddiii&show_icons=true&include_all_commits=true&theme=calm)
