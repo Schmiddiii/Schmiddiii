@@ -19,7 +19,7 @@ I am currently studying computer science at the university in Passau.
 
 # 🔭 I’m currently working on ...
 
-[![Tubefeeder](https://github-readme-stats.vercel.app/api/pin/?username=schmiddiii&repo=Tubefeeder&theme=calm)](https://github.com/schmiddiii/Tubefeeder)
+[![Tubefeeder](https://github-readme-stats.vercel.app/api/pin/?username=Tubefeeder&repo=Tubefeeder&theme=calm)](https://github.com/Tubefeeder/Tubefeeder)
 [![qute-cookie-block](https://github-readme-stats.vercel.app/api/pin/?username=schmiddiii&repo=qute-cookie-block&theme=calm)](https://github.com/schmiddiii/qute-cookie-block)
 
 
